@@ -51,6 +51,6 @@ Build a base for learning Data Structures & Algorithms.
 👩‍💻 Author
 
 Sakshi Jadhav
-GitHub: sakshijadhav0703 \n
-email: sakshijadhav8856@gmail.com \n
+GitHub: sakshijadhav0703 <br>
+email: sakshijadhav8856@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/sakshi-jadhav-b569b732a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
